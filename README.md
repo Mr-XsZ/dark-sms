@@ -4,10 +4,10 @@
 <img src="https://github.com/Mr-XsZ/dark-sms/blob/master/mig/Screenshot_20200407-104619_Termux.jpg"/>
 <br><br>
 <h3>Installing</h3><br>
-$ pkg install update
-$ pkg install upgrade
-$ pkg install python
-$ pkg install python2
+$ pkg install update<br>
+$ pkg install upgrade<br>
+$ pkg install python<br>
+$ pkg install python2<br>
 $ pkg install git<br>
 $ pkg install curl<br>
 $ git clone https://github.com/Mr-XsZ/Dark-Fb<br>
